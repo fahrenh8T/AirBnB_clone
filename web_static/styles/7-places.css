@@ -24,11 +24,11 @@
     flex-direction: column;
     justify-content: flex-start;
     position: relative;
- }
+}
 
 .places h2 {
     font-size: 30px;
     text-align: center;
     width: 100%;
     align-content: center;
- }
+}

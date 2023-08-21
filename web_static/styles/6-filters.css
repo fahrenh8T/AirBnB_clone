@@ -59,7 +59,7 @@
    list-style-type: none;
    width: 100%;
    margin-top: 0;
- }
+  }
   
 .filters .locations:hover .popover,
 .filters .amenities:hover .popover {
